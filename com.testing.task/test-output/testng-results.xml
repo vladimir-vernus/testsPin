@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="6" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="74" started-at="2016-04-27T14:38:34Z" finished-at="2016-04-27T14:38:34Z">
+  <suite name="AllTest" duration-ms="59" started-at="2016-04-27T15:54:52Z" finished-at="2016-04-27T15:54:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="74" started-at="2016-04-27T14:38:34Z" finished-at="2016-04-27T14:38:34Z">
+    <test name="AllTest" duration-ms="59" started-at="2016-04-27T15:54:52Z" finished-at="2016-04-27T15:54:52Z">
       <class name="com.testing.task.tests.PinTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="6" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="7" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="firstTryPinTest(java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="firstTryPinTest" duration-ms="10" started-at="2016-04-27T17:38:34Z" data-provider="firstTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="firstTryPinTest(java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="firstTryPinTest" duration-ms="15" started-at="2016-04-27T18:54:52Z" data-provider="firstTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -32,11 +32,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTryPinTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="1" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="firstTryPinTest(java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="firstTryPinTest" duration-ms="1" started-at="2016-04-27T17:38:34Z" data-provider="firstTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="firstTryPinTest(java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="firstTryPinTest" duration-ms="0" started-at="2016-04-27T18:54:52Z" data-provider="firstTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -57,11 +57,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTryPinTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="secondTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="secondTryPinTest" duration-ms="4" started-at="2016-04-27T17:38:34Z" data-provider="secondTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="secondTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="secondTryPinTest" duration-ms="0" started-at="2016-04-27T18:54:52Z" data-provider="secondTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -87,11 +87,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondTryPinTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="secondTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="secondTryPinTest" duration-ms="0" started-at="2016-04-27T17:38:34Z" data-provider="secondTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="secondTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="secondTryPinTest" duration-ms="0" started-at="2016-04-27T18:54:52Z" data-provider="secondTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -117,7 +117,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- secondTryPinTest -->
-        <test-method status="PASS" signature="thirdTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="thirdTryPinTest" duration-ms="1" started-at="2016-04-27T17:38:34Z" data-provider="thirdTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="thirdTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="thirdTryPinTest" duration-ms="1" started-at="2016-04-27T18:54:52Z" data-provider="thirdTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -148,15 +148,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdTryPinTest -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="1" started-at="2016-04-27T17:38:34Z" finished-at="2016-04-27T17:38:34Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="thirdTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="thirdTryPinTest" duration-ms="0" started-at="2016-04-27T17:38:34Z" data-provider="thirdTryPinData" finished-at="2016-04-27T17:38:34Z">
+        <test-method status="PASS" signature="thirdTryPinTest(java.lang.Integer, java.lang.Integer, java.lang.Integer, java.lang.Boolean, java.lang.Boolean)[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="thirdTryPinTest" duration-ms="1" started-at="2016-04-27T18:54:52Z" data-provider="thirdTryPinData" finished-at="2016-04-27T18:54:52Z">
           <params>
             <param index="0">
               <value>
@@ -187,7 +183,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- thirdTryPinTest -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testing.task.tests.PinTest@1ef7fe8e]" name="setUp" is-config="true" duration-ms="0" started-at="2016-04-27T18:54:52Z" finished-at="2016-04-27T18:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
       </class> <!-- com.testing.task.tests.PinTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- AllTest -->
+  </suite> <!-- AllTest -->
 </testng-results>
